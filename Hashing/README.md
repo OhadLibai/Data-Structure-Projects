@@ -1,1 +1,1 @@
-Hash different implemention in Java.
+Different Hash implementions in Java.
