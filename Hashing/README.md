@@ -1,1 +1,1 @@
-Different Hash implementions in Java.
+Examining collisions in Hashing
