@@ -1,1 +1,1 @@
-Examining collisions in Hashing
+Examining different approaches to open addresing solution in Hashing
